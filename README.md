@@ -3,11 +3,13 @@
 Name(s): Harrison Anthony 
 contact information: h dot anthony1 at universityofgalway dot ie
 
-
 Questions regarding this repository can be directed to me at the following email address: h.anthony1 at universityofgalway dot ie
 I will also respond to github issues and messages. 
 
-##
+## Repository information
+
+The conda_envs folder contains all conda environments used to run each MSI tool. The sensor.yml file can be used to run MSI-sensor MSI-sensor2 and MSI-sensor pro
+
 
 
 ### 10.1001/jamanetworkopen.2020.3959 Description of scripts and steps in pipeline for use in 200k release:

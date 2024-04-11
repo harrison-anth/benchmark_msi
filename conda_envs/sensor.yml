@@ -1,0 +1,36 @@
+name: pro
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=conda_forge
+  - _openmp_mutex=4.5=2_gnu
+  - bzip2=1.0.8=h7f98852_4
+  - c-ares=1.19.1=hd590300_0
+  - ca-certificates=2023.7.22=hbcca054_0
+  - htslib=1.17=h81da01d_2
+  - keyutils=1.6.1=h166bdaf_0
+  - krb5=1.21.1=h659d440_0
+  - libcurl=8.2.1=hca28451_0
+  - libdeflate=1.18=h0b41bf4_0
+  - libedit=3.1.20221030=h5eee18b_0
+  - libev=4.33=h516909a_1
+  - libgcc-ng=13.1.0=he5830b7_0
+  - libgomp=13.1.0=he5830b7_0
+  - libnghttp2=1.52.0=h61bc06f_0
+  - libssh2=1.11.0=h0841786_0
+  - libstdcxx-ng=13.1.0=hfd8a6a1_0
+  - libzlib=1.2.13=hd590300_5
+  - llvm-openmp=8.0.1=hc9558a2_0
+  - lz4-c=1.9.4=hcb278e6_0
+  - msisensor=0.5=h264e753_6
+  - msisensor-pro=1.2.0=h0033a41_6
+  - msisensor2=0.1=hdcf5f25_2
+  - ncurses=6.4=hcb278e6_0
+  - openmp=8.0.1=0
+  - openssl=3.1.2=hd590300_0
+  - xz=5.4.2=h5eee18b_0
+  - zlib=1.2.13=hd590300_5
+  - zstd=1.5.5=hc292b87_0
+prefix: /data3/hanthony/.conda_envs/pro
