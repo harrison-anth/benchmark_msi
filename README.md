@@ -9,11 +9,15 @@ contact information: h dot anthony1 at universityofgalway dot ie
 The conda_envs folder contains all conda environments used for data handling and all MSI tools.
 
 sensor.yml was used to run MSIsensor MSIsensor2 and MSIsensor-pro
+
 msings.yml was used to run msiNGS
+
 mantis.yml was used to run MANTIS
+
 vcf2maf.yml was used to convert from vcf file format to maf file format
 
 ### Scripts
-All code used to generate results was seperated into two pipelines. One that creates GDC manifest files for use with TCGA data and another that converts the pipeline for use with non-TCGA data.
+All code used to generate results was seperated into two pipelines.
+One that creates GDC manifest files for use with TCGA data (tcga directory) and another that converts the pipeline for use with non-TCGA data (non_tcga directory).
 
 
