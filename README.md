@@ -57,6 +57,7 @@ msings.sh - runs mSINGS
 
 
 
- and another that converts the pipeline for use with non-TCGA data (non_tcga directory).
-
+and another that converts the pipeline for use with non-TCGA data (non_tcga directory).
+Each subdirectory contains all code and results for that particular dataset.
+All directories fall the same naming scheme for datasets that were used in our manuscript.
 
