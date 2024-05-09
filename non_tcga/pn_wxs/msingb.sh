@@ -19,5 +19,10 @@ if [[ ! -f msingb_results/$tum_id/preres.csv ]]
 then
 
 python /home/hanthony/bin/programs/MSINGB/codes/msingb.py --maf maf/$tum_id.maf --outdir msingb_results/$tum_id
+
+rm msingb_results/$tum_id/feature.csv
+rm msingb_results/$tum_id/tagged.csv
+
 fi
+
 
