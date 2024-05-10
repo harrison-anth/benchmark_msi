@@ -41,15 +41,29 @@ sensor2.sh - runs msisensor2
 
 sensor.sh - runs msisensor
 
+sensor_rna.sh - runs msisensor-rna
+
+sensor_rna_shaper.R - reformats gene count matrices for use with msisensor-rna
+
+gen_count_matrix.sh - create gene count matrix from TCGA RNA sequencing data
+
 mantis.sh - runs MANTIS
+
+make_msings_baseline.sh - Creates msings baseline from 20 normal files
+
+make_pro_baseline.sh - Creates MSIsensor-pro baseline from 20 normal files
+
+make_sensor_rna_baseline.sh - Creates MSIsensor-rna baseline from 20 normal files and 7 MSI-H samples
 
 msings.sh - runs mSINGS
 
+#### The following code was used exclusively for TCGA-RNA samples
 
+rna.sh - Alternate version of the master script to handle rna samples. 
 
+rna_msih.sh - Alternate version of the master script to sample MSI-H cases for use with baseline generation
 
-
-
+rna_normals.sh - Alternate verseion of the master script to sample paired-normal samples for use with baseline generation
 
 
 
