@@ -63,7 +63,7 @@ rna.sh - Alternate version of the master script to handle rna samples.
 
 rna_msih.sh - Alternate version of the master script to sample MSI-H cases for use with baseline generation
 
-rna_normals.sh - Alternate verseion of the master script to sample paired-normal samples for use with baseline generation
+rna_normals.sh - Alternate version of the master script to randomly sample the paired normals for use with baseline generation
 
 
 
