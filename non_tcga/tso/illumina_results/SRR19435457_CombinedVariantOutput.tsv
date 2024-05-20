@@ -1,0 +1,53 @@
+TruSight Oncology 500 - Combined Variant Output		
+For Research Use Only. Not for use in diagnostic procedures.		
+		
+[Analysis Details]		
+Pair ID	SRR19435457	
+DNA Sample ID	SRR19435457	
+RNA Sample ID	NA	
+Output Date	2023-08-15	
+Output Time	14:00:55	
+Module Version	NA	
+Pipeline Version	ruo-2.2.0.12	
+		
+[Sequencing Run Details]		
+NA		
+		
+[TMB]		
+Total TMB	0.0	
+Coding Region Size in Megabases	0.00	
+Number of Passing Eligible Variants	0	
+		
+[MSI]		
+Usable MSI Sites	0	
+Total MSI Sites Unstable	NA	
+Percent Unstable MSI Sites	NA	
+		
+[Gene Amplifications]		
+Gene	Fold Change	
+NA		
+		
+[Splice Variants]		
+Gene	Affected Exon	Breakpoint 1	Breakpoint 2	Splice Supporting Reads	Reference Reads Transcript
+NA		
+		
+[Fusions]		
+Gene Pair	Breakpoint 1	Breakpoint 2	Fusion Supporting Reads	Gene 1 Reference Reads	Gene 2 Reference Reads
+NA		
+		
+[Small Variants]		
+Gene	Chromosome	Genomic Position	Reference Call	Alternative Call	Allele Frequency	Depth	P-Dot Notation	C-Dot Notation	Consequence(s)	Affected Exon(s)
+RAF1	chr3	12666367	A	G	1.0000	13		NM_002880.3:c.-26-6121T>C	intron_variant	
+NOTCH4	chr6	32189032	T	C	0.5172	29	NM_004557.3:c.522A>G(p.(Thr174=))	NM_004557.3:c.522A>G	synonymous_variant	4/30
+MAP3K4	chr6	161469774	G	A	1.0000	19	NM_005922.3:c.470=(p.(His157=))	NM_005922.3:c.470=	synonymous_variant	3/27
+NTRK2	chr9	87429290	A	G	1.0000	35		NM_006180.4:c.1397-46665A>G	intron_variant	
+	chr11	134667546	A	T	0.5000	22				
+PIK3C2G	chr12	18435452	C	T	0.6250	16	NP_001275701.1:p.(Pro146Leu)	NM_001288772.1:c.437C>T	missense_variant	2/33
+	chr14	29036737	T	C	1.0000	16				
+	chr16	84582311	G	C	0.3214	28				
+ETV4	chr17	41612677	G	A	0.3333	18		NM_001079675.2:c.256+1117C>T	intron_variant	
+AXIN2	chr17	63533789	T	C	1.0000	36	NM_004655.3:c.1365A>G(p.(Pro455=))	NM_004655.3:c.1365A>G	synonymous_variant	6/11
+TMPRSS2	chr21	42864166	A	C	0.3750	24		NM_001135099.1:c.349+2117T>G	intron_variant	
+BCR	chr22	23631801	T	C	0.3714	35	NM_004327.3:c.2700T>C(p.(Asn900=))	NM_004327.3:c.2700T>C	synonymous_variant	13/23
+BCR	chr22	23631823	T	C	0.3750	40		NM_004327.3:c.2707+15T>C	intron_variant	
+		

@@ -1,0 +1,4 @@
+Position	64K_S7
+unstable_loci	0
+passing_loci	0
+msi status	NEG

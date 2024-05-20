@@ -1,0 +1,59 @@
+TruSight Oncology 500 - Combined Variant Output		
+For Research Use Only. Not for use in diagnostic procedures.		
+		
+[Analysis Details]		
+Pair ID	SRR19435364	
+DNA Sample ID	SRR19435364	
+RNA Sample ID	NA	
+Output Date	2023-08-15	
+Output Time	14:00:55	
+Module Version	NA	
+Pipeline Version	ruo-2.2.0.12	
+		
+[Sequencing Run Details]		
+NA		
+		
+[TMB]		
+Total TMB	0.0	
+Coding Region Size in Megabases	0.03	
+Number of Passing Eligible Variants	0	
+		
+[MSI]		
+Usable MSI Sites	0	
+Total MSI Sites Unstable	NA	
+Percent Unstable MSI Sites	NA	
+		
+[Gene Amplifications]		
+Gene	Fold Change	
+NA		
+		
+[Splice Variants]		
+Gene	Affected Exon	Breakpoint 1	Breakpoint 2	Splice Supporting Reads	Reference Reads Transcript
+NA		
+		
+[Fusions]		
+Gene Pair	Breakpoint 1	Breakpoint 2	Fusion Supporting Reads	Gene 1 Reference Reads	Gene 2 Reference Reads
+NA		
+		
+[Small Variants]		
+Gene	Chromosome	Genomic Position	Reference Call	Alternative Call	Allele Frequency	Depth	P-Dot Notation	C-Dot Notation	Consequence(s)	Affected Exon(s)
+NTRK1	chr1	156843395	C	A	0.5000	44		NM_002529.3:c.851-30C>A	intron_variant	
+PAX8	chr2	113984303	T	C	0.3636	22		NM_003466.3:c.1189+429A>G	intron_variant	
+MSH3	chr5	79950781	A	G	1.0000	14	NP_002430.3:p.(Ile79Val)	NM_002439.4:c.235A>G	missense_variant:splice_region_variant	1/24
+MYB	chr6	135524516	A	G	0.5000	24		NM_001130173.1:c.2169+54A>G	intron_variant	
+TNFAIP3	chr6	138196066	T	G	0.6250	32	NP_006281.1:p.(Phe127Cys)	NM_006290.3:c.380T>G	missense_variant	3/9
+ESR1	chr6	152287143	G	C	0.5435	46		NM_000125.3:c.1096+21500G>C	intron_variant	
+PRKN	chr6	162137147	C	T	0.2333	30		NM_004562.2:c.871+69657G>A	intron_variant	
+ETV1	chr7	14000816	A	G	0.5500	20		NM_004956.4:c.235+16236T>C	intron_variant	
+BRAF	chr7	140452363	C	G	1.0000	27		NM_004333.4:c.1860+712G>C	intron_variant	
+FGF4	chr11	69592140	A	T	0.9500	40			upstream_gene_variant	
+ETV6	chr12	12011772	A	G	0.3226	31		NM_001987.4:c.463+5277A>G	intron_variant	
+ETV6	chr12	12013572	G	A	1.0000	22		NM_001987.4:c.463+7077G>A	intron_variant	
+	chr14	29036737	T	C	0.3929	28				
+MGA	chr15	41991315	A	T	0.9677	31	NP_001157745.1:p.(Thr716Ser)	NM_001164273.1:c.2146A>T	missense_variant	5/24
+INSR	chr19	7293898	G	C	1.0000	6	NP_000199.2:p.(Ala2Gly)	NM_000208.3:c.5C>G	missense_variant	1/22
+TMPRSS2	chr21	42864166	A	C	1.0000	42		NM_001135099.1:c.349+2117T>G	intron_variant	
+BCR	chr22	23631801	T	C	0.4103	39	NM_004327.3:c.2700T>C(p.(Asn900=))	NM_004327.3:c.2700T>C	synonymous_variant	13/23
+BCR	chr22	23631823	T	C	0.2857	42		NM_004327.3:c.2707+15T>C	intron_variant	
+	chr22	26790885	G	C	1.0000	26				
+		

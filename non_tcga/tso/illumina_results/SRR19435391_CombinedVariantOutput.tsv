@@ -1,0 +1,56 @@
+TruSight Oncology 500 - Combined Variant Output		
+For Research Use Only. Not for use in diagnostic procedures.		
+		
+[Analysis Details]		
+Pair ID	SRR19435391	
+DNA Sample ID	SRR19435391	
+RNA Sample ID	NA	
+Output Date	2023-08-15	
+Output Time	14:00:55	
+Module Version	NA	
+Pipeline Version	ruo-2.2.0.12	
+		
+[Sequencing Run Details]		
+NA		
+		
+[TMB]		
+Total TMB	NA	
+Coding Region Size in Megabases	NA	
+Number of Passing Eligible Variants	NA	
+		
+[MSI]		
+Usable MSI Sites	0	
+Total MSI Sites Unstable	NA	
+Percent Unstable MSI Sites	NA	
+		
+[Gene Amplifications]		
+Gene	Fold Change	
+BRCA2	1.449	
+		
+[Splice Variants]		
+Gene	Affected Exon	Breakpoint 1	Breakpoint 2	Splice Supporting Reads	Reference Reads Transcript
+NA		
+		
+[Fusions]		
+Gene Pair	Breakpoint 1	Breakpoint 2	Fusion Supporting Reads	Gene 1 Reference Reads	Gene 2 Reference Reads
+NA		
+		
+[Small Variants]		
+Gene	Chromosome	Genomic Position	Reference Call	Alternative Call	Allele Frequency	Depth	P-Dot Notation	C-Dot Notation	Consequence(s)	Affected Exon(s)
+PIK3C2B	chr1	204438643	G	T	1.0000	17	NM_002646.3:c.288C>A(p.(Leu96=))	NM_002646.3:c.288C>A	synonymous_variant	3/34
+MSH3	chr5	79950781	A	G	1.0000	6	NP_002430.3:p.(Ile79Val)	NM_002439.4:c.235A>G	missense_variant:splice_region_variant	1/24
+	chr6	42013049	T	C	1.0000	21				
+ESR1	chr6	152287143	G	C	0.4783	23		NM_000125.3:c.1096+21500G>C	intron_variant	
+MYC	chr8	128757577	T	A	0.8571	14			downstream_gene_variant	
+RET	chr10	43607756	G	A	0.2917	24		NM_020975.4:c.1648+84G>A	intron_variant	
+	chr11	134667546	A	T	0.2500	16				
+PIK3C2G	chr12	18435452	C	T	0.5455	11	NP_001275701.1:p.(Pro146Leu)	NM_001288772.1:c.437C>T	missense_variant	2/33
+FLT1	chr13	28961839	C	T	1.0000	15		NM_002019.4:c.1969+2094G>A	intron_variant	
+	chr14	29036737	T	C	0.6667	15				
+ZFHX3	chr16	72821625	C	T	0.6250	8	NP_008816.3:p.(Gly3517Asp)	NM_006885.3:c.10550G>A	missense_variant	10/10
+RPS6KB1	chr17	58024275	A	G	0.6250	8		NM_003161.3:c.*126A>G	3_prime_UTR_variant	15/15
+DNMT1	chr19	10273372	T	C	0.9000	10	NP_001124295.1:p.(Ile327Val)	NM_001130823.2:c.979A>G	missense_variant	13/41
+AXL	chr19	41743861	A	G	1.0000	19	NM_021913.4:c.796=(p.(Asp266=))	NM_021913.4:c.796=	synonymous_variant	7/20
+BCR	chr22	23631801	T	C	0.7143	21	NM_004327.3:c.2700T>C(p.(Asn900=))	NM_004327.3:c.2700T>C	synonymous_variant	13/23
+BCOR	chrX	39933339	A	G	1.0000	17	NM_001123385.1:c.1260T>C(p.(Asp420=))	NM_001123385.1:c.1260T>C	synonymous_variant	4/15
+		

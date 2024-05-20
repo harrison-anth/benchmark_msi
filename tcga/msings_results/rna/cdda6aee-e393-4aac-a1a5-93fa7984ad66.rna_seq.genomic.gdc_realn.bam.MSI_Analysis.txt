@@ -1,0 +1,4 @@
+Position	cdda6aee-e393-4aac-a1a5-93fa7984ad66.rna_seq.genomic.gdc_realn.bam
+unstable_loci	0
+passing_loci	0
+msi status	NEG

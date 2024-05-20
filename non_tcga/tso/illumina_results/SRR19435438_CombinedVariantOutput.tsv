@@ -1,0 +1,52 @@
+TruSight Oncology 500 - Combined Variant Output		
+For Research Use Only. Not for use in diagnostic procedures.		
+		
+[Analysis Details]		
+Pair ID	SRR19435438	
+DNA Sample ID	SRR19435438	
+RNA Sample ID	NA	
+Output Date	2023-08-15	
+Output Time	14:00:55	
+Module Version	NA	
+Pipeline Version	ruo-2.2.0.12	
+		
+[Sequencing Run Details]		
+NA		
+		
+[TMB]		
+Total TMB	0.0	
+Coding Region Size in Megabases	0.04	
+Number of Passing Eligible Variants	0	
+		
+[MSI]		
+Usable MSI Sites	0	
+Total MSI Sites Unstable	NA	
+Percent Unstable MSI Sites	NA	
+		
+[Gene Amplifications]		
+Gene	Fold Change	
+NA		
+		
+[Splice Variants]		
+Gene	Affected Exon	Breakpoint 1	Breakpoint 2	Splice Supporting Reads	Reference Reads Transcript
+NA		
+		
+[Fusions]		
+Gene Pair	Breakpoint 1	Breakpoint 2	Fusion Supporting Reads	Gene 1 Reference Reads	Gene 2 Reference Reads
+NA		
+		
+[Small Variants]		
+Gene	Chromosome	Genomic Position	Reference Call	Alternative Call	Allele Frequency	Depth	P-Dot Notation	C-Dot Notation	Consequence(s)	Affected Exon(s)
+RAF1	chr3	12666367	A	G	1.0000	14		NM_002880.3:c.-26-6121T>C	intron_variant	
+MSH3	chr5	79950781	A	G	1.0000	22	NP_002430.3:p.(Ile79Val)	NM_002439.4:c.235A>G	missense_variant:splice_region_variant	1/24
+FLT4	chr5	180046516	G	A	0.5172	29		NM_182925.4:c.2647+149C>T	intron_variant	
+PRKN	chr6	162137147	C	T	0.4167	36		NM_004562.2:c.871+69657G>A	intron_variant	
+RET	chr10	43607756	G	A	0.4603	63		NM_020975.4:c.1648+84G>A	intron_variant	
+	chr11	134667546	A	T	1.0000	34				
+KRAS	chr12	25374197	C	T	0.4348	23		NM_033360.3:c.450+4351G>A	intron_variant	
+RPS6KB1	chr17	58024275	A	G	0.3684	19		NM_003161.3:c.*126A>G	3_prime_UTR_variant	15/15
+AKT2	chr19	40776316	AG	TT	0.3529	34		NM_001626.5:c.-84-5059_-84-5058delinsAA	intron_variant	
+TMPRSS2	chr21	42836476	A	G	1.0000	7			downstream_gene_variant	
+TMPRSS2	chr21	42864166	A	C	0.2245	49		NM_001135099.1:c.349+2117T>G	intron_variant	
+BCR	chr22	23631801	T	C	0.3158	38	NM_004327.3:c.2700T>C(p.(Asn900=))	NM_004327.3:c.2700T>C	synonymous_variant	13/23
+		

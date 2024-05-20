@@ -1,0 +1,58 @@
+TruSight Oncology 500 - Combined Variant Output		
+For Research Use Only. Not for use in diagnostic procedures.		
+		
+[Analysis Details]		
+Pair ID	SRR19435455	
+DNA Sample ID	SRR19435455	
+RNA Sample ID	NA	
+Output Date	2023-08-15	
+Output Time	14:00:55	
+Module Version	NA	
+Pipeline Version	ruo-2.2.0.12	
+		
+[Sequencing Run Details]		
+NA		
+		
+[TMB]		
+Total TMB	0.0	
+Coding Region Size in Megabases	0.02	
+Number of Passing Eligible Variants	0	
+		
+[MSI]		
+Usable MSI Sites	0	
+Total MSI Sites Unstable	NA	
+Percent Unstable MSI Sites	NA	
+		
+[Gene Amplifications]		
+Gene	Fold Change	
+NA		
+		
+[Splice Variants]		
+Gene	Affected Exon	Breakpoint 1	Breakpoint 2	Splice Supporting Reads	Reference Reads Transcript
+NA		
+		
+[Fusions]		
+Gene Pair	Breakpoint 1	Breakpoint 2	Fusion Supporting Reads	Gene 1 Reference Reads	Gene 2 Reference Reads
+NA		
+		
+[Small Variants]		
+Gene	Chromosome	Genomic Position	Reference Call	Alternative Call	Allele Frequency	Depth	P-Dot Notation	C-Dot Notation	Consequence(s)	Affected Exon(s)
+PAX8	chr2	113984303	T	C	1.0000	31		NM_003466.3:c.1189+429A>G	intron_variant	
+RAF1	chr3	12666367	A	G	0.7143	14		NM_002880.3:c.-26-6121T>C	intron_variant	
+RAF1	chr3	12695252	C	G	0.4615	13		NM_002880.3:c.-27+10060G>C	intron_variant	
+PIK3CA	chr3	178891409	G	A	1.0000	25		NM_006218.3:c.-77+25018G>A	intron_variant	
+PIK3CA	chr3	178891421	A	G	1.0000	26		NM_006218.3:c.-77+25030A>G	intron_variant	
+PDGFRA	chr4	55152040	C	T	0.1600	25	NM_006206.5:c.2472C>T(p.(Val824=))	NM_006206.5:c.2472C>T	synonymous_variant	18/23
+MYB	chr6	135535447	T	C	0.8182	11		NM_001130173.1:c.2170-3555T>C	intron_variant	
+ETV1	chr7	13931982	T	A	0.6000	15		NM_004956.4:c.*3509A>T	3_prime_UTR_variant	14/14
+ETV1	chr7	14004670	C	T	0.3478	23		NM_004956.4:c.235+12382G>A	intron_variant	
+ETV6	chr12	12017753	A	G	0.6250	16		NM_001987.4:c.464-4605A>G	intron_variant	
+KRAS	chr12	25374197	C	T	1.0000	19		NM_033360.3:c.450+4351G>A	intron_variant	
+FGF14	chr13	102589909	C	T	0.9706	34		NM_175929.2:c.209-62263G>A	intron_variant	
+	chr14	29036737	T	C	1.0000	28				
+ZFHX3	chr16	72991660	C	G	1.0000	33	NM_006885.3:c.2385G>C(p.(Pro795=))	NM_006885.3:c.2385G>C	synonymous_variant	2/10
+TMPRSS2	chr21	42864166	A	C	0.4773	44		NM_001135099.1:c.349+2117T>G	intron_variant	
+ICOSLG	chr21	45649666	G	A	0.6191	21		NM_001283050.1:c.898+271C>T	intron_variant	
+	chr22	26790885	G	C	0.6786	28				
+EP300	chr22	41551039	T	A	1.0000	32	NM_001429.3:c.3183T>A(p.(Thr1061=))	NM_001429.3:c.3183T>A	synonymous_variant	17/31
+		

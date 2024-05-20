@@ -1,0 +1,62 @@
+TruSight Oncology 500 - Combined Variant Output		
+For Research Use Only. Not for use in diagnostic procedures.		
+		
+[Analysis Details]		
+Pair ID	SRR19435443	
+DNA Sample ID	SRR19435443	
+RNA Sample ID	NA	
+Output Date	2023-08-15	
+Output Time	14:00:55	
+Module Version	NA	
+Pipeline Version	ruo-2.2.0.12	
+		
+[Sequencing Run Details]		
+NA		
+		
+[TMB]		
+Total TMB	0.0	
+Coding Region Size in Megabases	0.00	
+Number of Passing Eligible Variants	0	
+		
+[MSI]		
+Usable MSI Sites	0	
+Total MSI Sites Unstable	NA	
+Percent Unstable MSI Sites	NA	
+		
+[Gene Amplifications]		
+Gene	Fold Change	
+BRCA2	1.591	
+FGF14	1.633	
+LAMP1	1.520	
+		
+[Splice Variants]		
+Gene	Affected Exon	Breakpoint 1	Breakpoint 2	Splice Supporting Reads	Reference Reads Transcript
+NA		
+		
+[Fusions]		
+Gene Pair	Breakpoint 1	Breakpoint 2	Fusion Supporting Reads	Gene 1 Reference Reads	Gene 2 Reference Reads
+NA		
+		
+[Small Variants]		
+Gene	Chromosome	Genomic Position	Reference Call	Alternative Call	Allele Frequency	Depth	P-Dot Notation	C-Dot Notation	Consequence(s)	Affected Exon(s)
+PAX8	chr2	113984303	T	C	0.5556	9		NM_003466.3:c.1189+429A>G	intron_variant	
+PAX3	chr2	223074560	T	C	0.5455	22		NM_181459.3:c.1174-7651A>G	intron_variant	
+RAF1	chr3	12666367	A	G	1.0000	8		NM_002880.3:c.-26-6121T>C	intron_variant	
+RAF1	chr3	12695252	C	G	1.0000	10		NM_002880.3:c.-27+10060G>C	intron_variant	
+FGF10	chr5	44377083	G	T	1.0000	11		NM_004465.1:c.325+11377C>A	intron_variant	
+MSH3	chr5	79950781	A	G	1.0000	9	NP_002430.3:p.(Ile79Val)	NM_002439.4:c.235A>G	missense_variant:splice_region_variant	1/24
+EGFR	chr7	55236774	A	G	1.0000	22		NM_005228.4:c.1881-2094A>G	intron_variant	
+EGFR	chr7	55238874	T	A	1.0000	21	NM_005228.4:c.1887T>A(p.(Thr629=))	NM_005228.4:c.1887T>A	synonymous_variant	16/28
+FGF4	chr11	69591809	C	T	0.5833	12			upstream_gene_variant	
+FGF4	chr11	69592814	A	G	1.0000	14			upstream_gene_variant	
+	chr11	134667546	A	T	0.6667	18				
+ETV6	chr12	12011772	A	G	0.2083	24		NM_001987.4:c.463+5277A>G	intron_variant	
+ETV6	chr12	12013572	G	A	0.6667	6		NM_001987.4:c.463+7077G>A	intron_variant	
+ETV6	chr12	12013612	G	A	0.3000	10		NM_001987.4:c.463+7117G>A	intron_variant	
+FGF9	chr13	22278137	G	C	0.7647	17		NM_002010.2:c.*2563G>C	3_prime_UTR_variant	3/3
+SOCS1	chr16	11347311	T	C	1.0000	25			downstream_gene_variant	
+DNMT1	chr19	10265593	G	T	0.7143	7	NM_001130823.2:c.1632C>A(p.(Ile544=))	NM_001130823.2:c.1632C>A	synonymous_variant	20/41
+BCR	chr22	23631801	T	C	0.5652	23	NM_004327.3:c.2700T>C(p.(Asn900=))	NM_004327.3:c.2700T>C	synonymous_variant	13/23
+	chr22	26790885	G	C	1.0000	18				
+EP300	chr22	41551039	T	A	1.0000	19	NM_001429.3:c.3183T>A(p.(Thr1061=))	NM_001429.3:c.3183T>A	synonymous_variant	17/31
+		

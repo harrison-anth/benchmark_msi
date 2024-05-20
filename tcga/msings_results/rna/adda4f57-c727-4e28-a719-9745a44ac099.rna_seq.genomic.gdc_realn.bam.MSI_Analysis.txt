@@ -1,0 +1,4 @@
+Position	adda4f57-c727-4e28-a719-9745a44ac099.rna_seq.genomic.gdc_realn.bam
+unstable_loci	0
+passing_loci	0
+msi status	NEG

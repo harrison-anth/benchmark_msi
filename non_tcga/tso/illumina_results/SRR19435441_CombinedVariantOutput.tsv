@@ -1,0 +1,47 @@
+TruSight Oncology 500 - Combined Variant Output		
+For Research Use Only. Not for use in diagnostic procedures.		
+		
+[Analysis Details]		
+Pair ID	SRR19435441	
+DNA Sample ID	SRR19435441	
+RNA Sample ID	NA	
+Output Date	2023-08-15	
+Output Time	14:00:55	
+Module Version	NA	
+Pipeline Version	ruo-2.2.0.12	
+		
+[Sequencing Run Details]		
+NA		
+		
+[TMB]		
+Total TMB	0.0	
+Coding Region Size in Megabases	0.01	
+Number of Passing Eligible Variants	0	
+		
+[MSI]		
+Usable MSI Sites	0	
+Total MSI Sites Unstable	NA	
+Percent Unstable MSI Sites	NA	
+		
+[Gene Amplifications]		
+Gene	Fold Change	
+NA		
+		
+[Splice Variants]		
+Gene	Affected Exon	Breakpoint 1	Breakpoint 2	Splice Supporting Reads	Reference Reads Transcript
+NA		
+		
+[Fusions]		
+Gene Pair	Breakpoint 1	Breakpoint 2	Fusion Supporting Reads	Gene 1 Reference Reads	Gene 2 Reference Reads
+NA		
+		
+[Small Variants]		
+Gene	Chromosome	Genomic Position	Reference Call	Alternative Call	Allele Frequency	Depth	P-Dot Notation	C-Dot Notation	Consequence(s)	Affected Exon(s)
+PLK2	chr5	57754851	A	G	0.6000	25	NM_006622.3:c.339T>C(p.(Ile113=))	NM_006622.3:c.339T>C	synonymous_variant	2/14
+ETV1	chr7	14007302	C	G	1.0000	12		NM_004956.4:c.235+9750G>C	intron_variant	
+MYC	chr8	128757577	T	A	1.0000	35			downstream_gene_variant	
+RET	chr10	43622368	T	A	1.0000	20		NM_020975.4:c.3187+198T>A	intron_variant	
+ETV6	chr12	12011772	A	G	0.5526	38		NM_001987.4:c.463+5277A>G	intron_variant	
+KRAS	chr12	25374197	C	T	1.0000	17		NM_033360.3:c.450+4351G>A	intron_variant	
+TFE3	chrX	48892694	A	G	1.0000	6		NM_006521.5:c.886-928T>C	intron_variant	
+		

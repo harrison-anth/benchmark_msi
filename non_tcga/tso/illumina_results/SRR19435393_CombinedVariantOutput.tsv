@@ -1,0 +1,56 @@
+TruSight Oncology 500 - Combined Variant Output		
+For Research Use Only. Not for use in diagnostic procedures.		
+		
+[Analysis Details]		
+Pair ID	SRR19435393	
+DNA Sample ID	SRR19435393	
+RNA Sample ID	NA	
+Output Date	2023-08-15	
+Output Time	14:00:55	
+Module Version	NA	
+Pipeline Version	ruo-2.2.0.12	
+		
+[Sequencing Run Details]		
+NA		
+		
+[TMB]		
+Total TMB	0.0	
+Coding Region Size in Megabases	0.00	
+Number of Passing Eligible Variants	0	
+		
+[MSI]		
+Usable MSI Sites	0	
+Total MSI Sites Unstable	NA	
+Percent Unstable MSI Sites	NA	
+		
+[Gene Amplifications]		
+Gene	Fold Change	
+NRAS	2.392	
+FGFR1	2.660	
+		
+[Splice Variants]		
+Gene	Affected Exon	Breakpoint 1	Breakpoint 2	Splice Supporting Reads	Reference Reads Transcript
+NA		
+		
+[Fusions]		
+Gene Pair	Breakpoint 1	Breakpoint 2	Fusion Supporting Reads	Gene 1 Reference Reads	Gene 2 Reference Reads
+NA		
+		
+[Small Variants]		
+Gene	Chromosome	Genomic Position	Reference Call	Alternative Call	Allele Frequency	Depth	P-Dot Notation	C-Dot Notation	Consequence(s)	Affected Exon(s)
+FANCL	chr2	58388696	A	G	1.0000	8	NM_001114636.1:c.996T>C(p.(Ser332=))	NM_001114636.1:c.996T>C	synonymous_variant	12/14
+RAF1	chr3	12666367	A	G	1.0000	6		NM_002880.3:c.-26-6121T>C	intron_variant	
+MST1	chr3	49725302	T	C	0.2000	20	NM_020998.3:c.123A>G(p.(Gln41=))	NM_020998.3:c.123A>G	synonymous_variant	2/18
+MSH3	chr5	79950781	A	G	1.0000	11	NP_002430.3:p.(Ile79Val)	NM_002439.4:c.235A>G	missense_variant:splice_region_variant	1/24
+MYB	chr6	135534823	T	C	1.0000	17		NM_001130173.1:c.2170-4179T>C	intron_variant	
+ETV1	chr7	14015318	T	A	1.0000	8		NM_004956.4:c.235+1734A>T	intron_variant	
+NTRK2	chr9	87479337	A	G	1.0000	15		NM_006180.4:c.1445-2821A>G	intron_variant	
+	chr14	29036737	T	C	1.0000	14				
+ZFHX3	chr16	72832135	T	A	0.9474	19	NM_006885.3:c.4446A>T(p.(Ala1482=))	NM_006885.3:c.4446A>T	synonymous_variant	9/10
+AURKB	chr17	8108331	A	G	1.0000	22	NP_001271455.1:p.(Met299Thr)	NM_001284526.1:c.896T>C	missense_variant	9/9
+RPS6KB1	chr17	58024275	A	G	0.4444	9		NM_003161.3:c.*126A>G	3_prime_UTR_variant	15/15
+NOTCH3	chr19	15302844	T	C	0.9630	27	NM_000435.2:c.606A>G(p.(Ala202=))	NM_000435.2:c.606A>G	synonymous_variant	4/33
+BCR	chr22	23631801	T	C	0.3478	23	NM_004327.3:c.2700T>C(p.(Asn900=))	NM_004327.3:c.2700T>C	synonymous_variant	13/23
+BCR	chr22	23631823	T	C	0.4286	28		NM_004327.3:c.2707+15T>C	intron_variant	
+	chr22	26790885	G	C	0.3684	19				
+		

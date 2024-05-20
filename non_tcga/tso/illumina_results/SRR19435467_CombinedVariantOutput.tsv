@@ -1,0 +1,51 @@
+TruSight Oncology 500 - Combined Variant Output		
+For Research Use Only. Not for use in diagnostic procedures.		
+		
+[Analysis Details]		
+Pair ID	SRR19435467	
+DNA Sample ID	SRR19435467	
+RNA Sample ID	NA	
+Output Date	2023-08-14	
+Output Time	18:20:26	
+Module Version	NA	
+Pipeline Version	ruo-2.2.0.12	
+		
+[Sequencing Run Details]		
+NA		
+		
+[TMB]		
+Total TMB	0.0	
+Coding Region Size in Megabases	0.00	
+Number of Passing Eligible Variants	0	
+		
+[MSI]		
+Usable MSI Sites	0	
+Total MSI Sites Unstable	NA	
+Percent Unstable MSI Sites	NA	
+		
+[Gene Amplifications]		
+Gene	Fold Change	
+NA		
+		
+[Splice Variants]		
+Gene	Affected Exon	Breakpoint 1	Breakpoint 2	Splice Supporting Reads	Reference Reads Transcript
+NA		
+		
+[Fusions]		
+Gene Pair	Breakpoint 1	Breakpoint 2	Fusion Supporting Reads	Gene 1 Reference Reads	Gene 2 Reference Reads
+NA		
+		
+[Small Variants]		
+Gene	Chromosome	Genomic Position	Reference Call	Alternative Call	Allele Frequency	Depth	P-Dot Notation	C-Dot Notation	Consequence(s)	Affected Exon(s)
+RAF1	chr3	12666367	A	G	1.0000	12		NM_002880.3:c.-26-6121T>C	intron_variant	
+RAF1	chr3	12695252	C	G	0.9231	13		NM_002880.3:c.-27+10060G>C	intron_variant	
+MYB	chr6	135524516	A	G	0.9091	11		NM_001130173.1:c.2169+54A>G	intron_variant	
+EGFR	chr7	55236774	A	G	1.0000	23		NM_005228.4:c.1881-2094A>G	intron_variant	
+	chr10	5987171	C	T	0.3182	22				
+	chr11	134667546	A	T	1.0000	26				
+ERCC5	chr13	103527930	G	C	1.0000	19	NM_000123.3:c.3238=(p.(Arg1080=))	NM_000123.3:c.3238=	synonymous_variant	15/15
+ZFHX3	chr16	72991660	C	G	1.0000	38	NM_006885.3:c.2385G>C(p.(Pro795=))	NM_006885.3:c.2385G>C	synonymous_variant	2/10
+BCR	chr22	23631801	T	C	1.0000	28	NM_004327.3:c.2700T>C(p.(Asn900=))	NM_004327.3:c.2700T>C	synonymous_variant	13/23
+BCR	chr22	23631823	T	C	1.0000	36		NM_004327.3:c.2707+15T>C	intron_variant	
+TFE3	chrX	48892694	A	G	1.0000	14		NM_006521.5:c.886-928T>C	intron_variant	
+		

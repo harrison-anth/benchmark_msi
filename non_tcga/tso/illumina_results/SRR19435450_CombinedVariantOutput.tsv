@@ -1,0 +1,52 @@
+TruSight Oncology 500 - Combined Variant Output		
+For Research Use Only. Not for use in diagnostic procedures.		
+		
+[Analysis Details]		
+Pair ID	SRR19435450	
+DNA Sample ID	SRR19435450	
+RNA Sample ID	NA	
+Output Date	2023-08-15	
+Output Time	14:00:55	
+Module Version	NA	
+Pipeline Version	ruo-2.2.0.12	
+		
+[Sequencing Run Details]		
+NA		
+		
+[TMB]		
+Total TMB	0.0	
+Coding Region Size in Megabases	0.03	
+Number of Passing Eligible Variants	0	
+		
+[MSI]		
+Usable MSI Sites	0	
+Total MSI Sites Unstable	NA	
+Percent Unstable MSI Sites	NA	
+		
+[Gene Amplifications]		
+Gene	Fold Change	
+NA		
+		
+[Splice Variants]		
+Gene	Affected Exon	Breakpoint 1	Breakpoint 2	Splice Supporting Reads	Reference Reads Transcript
+NA		
+		
+[Fusions]		
+Gene Pair	Breakpoint 1	Breakpoint 2	Fusion Supporting Reads	Gene 1 Reference Reads	Gene 2 Reference Reads
+NA		
+		
+[Small Variants]		
+Gene	Chromosome	Genomic Position	Reference Call	Alternative Call	Allele Frequency	Depth	P-Dot Notation	C-Dot Notation	Consequence(s)	Affected Exon(s)
+RAF1	chr3	12695252	C	G	1.0000	18		NM_002880.3:c.-27+10060G>C	intron_variant	
+MST1	chr3	49725302	T	C	0.1220	41	NM_020998.3:c.123A>G(p.(Gln41=))	NM_020998.3:c.123A>G	synonymous_variant	2/18
+MYB	chr6	135524516	A	G	1.0000	17		NM_001130173.1:c.2169+54A>G	intron_variant	
+MYB	chr6	135526768	C	T	1.0000	14		NM_001130173.1:c.2169+2306C>T	intron_variant	
+EGFR	chr7	55236774	A	G	1.0000	39		NM_005228.4:c.1881-2094A>G	intron_variant	
+ETV6	chr12	12011772	A	G	1.0000	32		NM_001987.4:c.463+5277A>G	intron_variant	
+	chr14	29036737	T	C	1.0000	24				
+ZFHX3	chr16	72991660	C	G	1.0000	31	NM_006885.3:c.2385G>C(p.(Pro795=))	NM_006885.3:c.2385G>C	synonymous_variant	2/10
+ERG	chr21	39752673	C	T	0.5200	25		NM_001136154.1:c.*2652G>A	3_prime_UTR_variant	12/12
+TMPRSS2	chr21	42864166	A	C	0.3438	32		NM_001135099.1:c.349+2117T>G	intron_variant	
+BCR	chr22	23631801	T	C	0.3023	43	NM_004327.3:c.2700T>C(p.(Asn900=))	NM_004327.3:c.2700T>C	synonymous_variant	13/23
+BCR	chr22	23631823	T	C	0.3333	51		NM_004327.3:c.2707+15T>C	intron_variant	
+		

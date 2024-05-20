@@ -1,0 +1,57 @@
+TruSight Oncology 500 - Combined Variant Output		
+For Research Use Only. Not for use in diagnostic procedures.		
+		
+[Analysis Details]		
+Pair ID	SRR19435400	
+DNA Sample ID	SRR19435400	
+RNA Sample ID	NA	
+Output Date	2023-08-15	
+Output Time	14:00:55	
+Module Version	NA	
+Pipeline Version	ruo-2.2.0.12	
+		
+[Sequencing Run Details]		
+NA		
+		
+[TMB]		
+Total TMB	0.0	
+Coding Region Size in Megabases	0.00	
+Number of Passing Eligible Variants	0	
+		
+[MSI]		
+Usable MSI Sites	0	
+Total MSI Sites Unstable	NA	
+Percent Unstable MSI Sites	NA	
+		
+[Gene Amplifications]		
+Gene	Fold Change	
+NA		
+		
+[Splice Variants]		
+Gene	Affected Exon	Breakpoint 1	Breakpoint 2	Splice Supporting Reads	Reference Reads Transcript
+NA		
+		
+[Fusions]		
+Gene Pair	Breakpoint 1	Breakpoint 2	Fusion Supporting Reads	Gene 1 Reference Reads	Gene 2 Reference Reads
+NA		
+		
+[Small Variants]		
+Gene	Chromosome	Genomic Position	Reference Call	Alternative Call	Allele Frequency	Depth	P-Dot Notation	C-Dot Notation	Consequence(s)	Affected Exon(s)
+PAX8	chr2	113984303	T	C	1.0000	18		NM_003466.3:c.1189+429A>G	intron_variant	
+RAF1	chr3	12666367	A	G	1.0000	12		NM_002880.3:c.-26-6121T>C	intron_variant	
+RAF1	chr3	12695252	C	G	1.0000	9		NM_002880.3:c.-27+10060G>C	intron_variant	
+ROS1	chr6	117659026	A	G	0.8333	6		NM_002944.2:c.5080-523T>C	intron_variant	
+MYB	chr6	135524516	A	G	1.0000	5		NM_001130173.1:c.2169+54A>G	intron_variant	
+MYB	chr6	135535447	T	C	1.0000	7		NM_001130173.1:c.2170-3555T>C	intron_variant	
+ESR1	chr6	152287143	G	C	0.5185	27		NM_000125.3:c.1096+21500G>C	intron_variant	
+ETV1	chr7	13988742	T	C	1.0000	12		NM_004956.4:c.236-9871A>G	intron_variant	
+KRAS	chr12	25374197	C	T	1.0000	18		NM_033360.3:c.450+4351G>A	intron_variant	
+	chr14	29036737	T	C	0.4091	22				
+ETV4	chr17	41612677	G	A	0.4546	22		NM_001079675.2:c.256+1117C>T	intron_variant	
+RNF43	chr17	56435160	AC	A	0.3056	36	NP_060233.3:p.(Gly659ValfsTer41)	NM_017763.5:c.1976del	frameshift_variant	9/10
+RPS6KB1	chr17	57986711	T	C	1.0000	4		NM_003161.3:c.142-1212T>C	intron_variant	
+TMPRSS2	chr21	42864166	A	C	0.5000	20		NM_001135099.1:c.349+2117T>G	intron_variant	
+ICOSLG	chr21	45649666	G	A	0.4546	22		NM_001283050.1:c.898+271C>T	intron_variant	
+BCR	chr22	23631801	T	C	0.4615	26	NM_004327.3:c.2700T>C(p.(Asn900=))	NM_004327.3:c.2700T>C	synonymous_variant	13/23
+	chr22	26790885	G	C	0.4118	17				
+		

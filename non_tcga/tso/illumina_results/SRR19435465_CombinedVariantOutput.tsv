@@ -1,0 +1,229 @@
+TruSight Oncology 500 - Combined Variant Output		
+For Research Use Only. Not for use in diagnostic procedures.		
+		
+[Analysis Details]		
+Pair ID	SRR19435465	
+DNA Sample ID	SRR19435465	
+RNA Sample ID	NA	
+Output Date	2023-08-14	
+Output Time	18:20:26	
+Module Version	NA	
+Pipeline Version	ruo-2.2.0.12	
+		
+[Sequencing Run Details]		
+NA		
+		
+[TMB]		
+Total TMB	0.0	
+Coding Region Size in Megabases	0.00	
+Number of Passing Eligible Variants	0	
+		
+[MSI]		
+Usable MSI Sites	0	
+Total MSI Sites Unstable	NA	
+Percent Unstable MSI Sites	NA	
+		
+[Gene Amplifications]		
+Gene	Fold Change	
+NA		
+		
+[Splice Variants]		
+Gene	Affected Exon	Breakpoint 1	Breakpoint 2	Splice Supporting Reads	Reference Reads Transcript
+NA		
+		
+[Fusions]		
+Gene Pair	Breakpoint 1	Breakpoint 2	Fusion Supporting Reads	Gene 1 Reference Reads	Gene 2 Reference Reads
+NA		
+		
+[Small Variants]		
+Gene	Chromosome	Genomic Position	Reference Call	Alternative Call	Allele Frequency	Depth	P-Dot Notation	C-Dot Notation	Consequence(s)	Affected Exon(s)
+SPEN	chr1	16259813	A	G	1.0000	24	NP_055816.2:p.(Asn2360Asp)	NM_015001.2:c.7078A>G	missense_variant	11/15
+	chr1	19071752	T	C	0.4762	21				
+MYCL	chr1	40363054	G	C	1.0000	23	NP_001028254.2:p.(Thr392Ser)	NM_001033082.2:c.1175C>G	missense_variant	3/3
+CDKN2C	chr1	51437902	G	A	1.0000	14		NM_001262.2:c.130-1663G>A	intron_variant	
+JAK1	chr1	65335062	A	G	0.6471	17	NM_001321852.1:c.579T>C(p.(Ala193=))	NM_001321852.1:c.579T>C	synonymous_variant	6/25
+BCL10	chr1	85740024	T	C	0.7500	16		NM_003921.4:c.57+1955A>G	intron_variant	
+SPTA1	chr1	158592935	G	A	0.2813	32	NM_003126.2:c.5958C>T(p.(Pro1986=))	NM_003126.2:c.5958C>T	synonymous_variant	43/52
+SPTA1	chr1	158619728	A	C	1.0000	25	NP_003117.2:p.(Ser1163Ala)	NM_003126.2:c.3487T>G	missense_variant	25/52
+SPTA1	chr1	158647495	A	T	1.0000	25	NM_003126.2:c.942T>A(p.(Ala314=))	NM_003126.2:c.942T>A	synonymous_variant	7/52
+SPTA1	chr1	158647522	A	G	0.6957	23	NM_003126.2:c.915T>C(p.(Ser305=))	NM_003126.2:c.915T>C	synonymous_variant	7/52
+SPTA1	chr1	158655036	G	A	1.0000	22	NM_003126.2:c.126C>T(p.(Val42=))	NM_003126.2:c.126C>T	synonymous_variant	2/52
+DDR2	chr1	162740121	G	A	0.6800	25	NP_006173.2:p.(Met441Ile)	NM_006182.2:c.1323G>A	missense_variant	12/18
+IKBKE	chr1	206647742	A	G	1.0000	22	NM_014002.3:c.156=(p.(Gln52=))	NM_014002.3:c.156=	synonymous_variant	4/22
+IKBKE	chr1	206647787	T	C	1.0000	27	NM_014002.3:c.201T>C(p.(Ile67=))	NM_014002.3:c.201T>C	synonymous_variant	4/22
+GEN1	chr2	17946243	A	G	0.6000	25	NP_872431.4:p.(Asn143Ser)	NM_182625.4:c.428A>G	missense_variant	4/14
+ALK	chr2	29416572	T	C	1.0000	43	NP_004295.2:p.(Ile1461Val)	NM_004304.4:c.4381A>G	missense_variant	29/29
+ALK	chr2	29445798	T	C	1.0000	24		NM_004304.4:c.3360-325A>G	intron_variant	
+ALK	chr2	29446701	T	C	1.0000	22		NM_004304.4:c.3173-307A>G	intron_variant	
+ALK	chr2	29446721	A	G	1.0000	24		NM_004304.4:c.3173-327T>C	intron_variant	
+ALK	chr2	29447253	A	G	1.0000	32		NM_004304.4:c.3173-859T>C	intron_variant	
+ALK	chr2	29449423	G	A	1.0000	23		NM_004304.4:c.3067+365C>T	intron_variant	
+ALK	chr2	29455267	A	G	1.0000	34	NM_004304.4:c.2535T>C(p.(Gly845=))	NM_004304.4:c.2535T>C	synonymous_variant	15/29
+EML4	chr2	42396722	A	G	1.0000	27		NM_019063.4:c.-30A>G	5_prime_UTR_variant	1/23
+EPCAM	chr2	47601106	T	C	0.3044	23	NP_002345.2:p.(Met115Thr)	NM_002354.2:c.344T>C	missense_variant	3/9
+PAX8	chr2	113981137	T	C	0.3044	23		NM_003466.3:c.1190-3382A>G	intron_variant	
+PAX8	chr2	113984303	T	C	0.4706	17		NM_003466.3:c.1189+429A>G	intron_variant	
+PAX8	chr2	113986881	A	G	0.6923	13		NM_003466.3:c.1088-2048T>C	intron_variant	
+PAX8	chr2	113990242	T	C	0.6154	13		NM_003466.3:c.1087+2729A>G	intron_variant	
+LRP1B	chr2	141032088	C	T	1.0000	31	NM_018557.2:c.13047G>A(p.(Thr4349=))	NM_018557.2:c.13047G>A	synonymous_variant	85/91
+SF3B1	chr2	198257795	T	C	1.0000	21	NM_012433.3:c.3657A>G(p.(Val1219=))	NM_012433.3:c.3657A>G	synonymous_variant	24/25
+SF3B1	chr2	198265526	A	G	1.0000	22	NM_012433.3:c.2631T>C(p.(Gly877=))	NM_012433.3:c.2631T>C	synonymous_variant	18/25
+CASP8	chr2	202122995	A	G	1.0000	31		NM_001228.4:c.-26-8189A>G	intron_variant	
+INHA	chr2	220432014	G	A	1.0000	32			upstream_gene_variant	
+PAX3	chr2	223074560	T	C	0.8182	11		NM_181459.3:c.1174-7651A>G	intron_variant	
+PAX3	chr2	223074651	A	G	0.5385	13		NM_181459.3:c.1174-7742T>C	intron_variant	
+PAX3	chr2	223161889	A	G	1.0000	30	NM_181459.3:c.129T>C(p.(Gly43=))	NM_181459.3:c.129T>C	synonymous_variant	2/10
+	chr2	239563579	G	C	0.3750	16				
+FANCD2	chr3	10138069	T	G	0.6250	16	NM_033084.4:c.4098T>G(p.(Leu1366=))	NM_033084.4:c.4098T>G	synonymous_variant	42/43
+PPARG	chr3	12393125	C	G	0.5625	16	NP_056953.2:p.(Pro12Ala)	NM_015869.4:c.34C>G	missense_variant	1/7
+PPARG	chr3	12413339	T	G	0.6500	20		NM_015869.4:c.83-7864T>G	intron_variant	
+RAF1	chr3	12666367	A	G	1.0000	18		NM_002880.3:c.-26-6121T>C	intron_variant	
+RAF1	chr3	12695252	C	G	1.0000	11		NM_002880.3:c.-27+10060G>C	intron_variant	
+SETD2	chr3	47162661	A	G	1.0000	25	NM_014159.6:c.3465T>C(p.(Asn1155=))	NM_014159.6:c.3465T>C	synonymous_variant	3/21
+MST1R	chr3	49928691	T	C	1.0000	24	NM_002447.2:c.3583=(p.(Gly1195=))	NM_002447.2:c.3583=	synonymous_variant	17/20
+PBRM1	chr3	52610651	T	A	0.5000	18	NM_018313.4:c.3522A>T(p.(Pro1174=))	NM_018313.4:c.3522A>T	synonymous_variant	23/30
+EPHA3	chr3	89521693	T	C	0.7222	18	NP_005224.2:p.(Trp924Arg)	NM_005233.5:c.2770T>C	missense_variant	16/17
+EPHA3	chr3	89521725	T	C	0.7727	22	NM_005233.5:c.2802T>C(p.(Gly934=))	NM_005233.5:c.2802T>C	synonymous_variant	16/17
+ATR	chr3	142277536	A	G	1.0000	8	NM_001184.3:c.1815T>C(p.(Asp605=))	NM_001184.3:c.1815T>C	synonymous_variant	8/47
+DCUN1D1	chr3	182681740	C	T	1.0000	29	NM_020640.3:c.318G>A(p.(Ala106=))	NM_020640.3:c.318G>A	synonymous_variant	3/7
+BCL6	chr3	187447032	G	A	1.0000	27	NM_001706.4:c.1161C>T(p.(Asn387=))	NM_001706.4:c.1161C>T	synonymous_variant	5/10
+PDGFRA	chr4	55141055	A	G	1.0000	30	NM_006206.5:c.1701A>G(p.(Pro567=))	NM_006206.5:c.1701A>G	synonymous_variant	12/23
+FGF5	chr4	81189603	A	C	0.5217	23		NM_004464.3:c.355+1270A>C	intron_variant	
+FGF5	chr4	81195367	T	A	0.6667	6		NM_004464.3:c.356-696T>A	intron_variant	
+FGF5	chr4	81202398	T	C	1.0000	23		NM_004464.3:c.460-5081T>C	intron_variant	
+FGF5	chr4	81208992	A	T	1.0000	16		NM_004464.3:c.*1166A>T	3_prime_UTR_variant	3/3
+FAT1	chr4	187627792	T	C	0.5263	19	NP_005236.2:p.(Arg1064Gly)	NM_005245.3:c.3190A>G	missense_variant	2/27
+FGF10	chr5	44328829	A	C	1.0000	26		NM_004465.1:c.326-18197T>G	intron_variant	
+FGF10	chr5	44377083	G	T	1.0000	12		NM_004465.1:c.325+11377C>A	intron_variant	
+MAP3K1	chr5	56178217	A	C	1.0000	37	NM_005921.1:c.3190A>C(p.(Arg1064=))	NM_005921.1:c.3190A>C	synonymous_variant	14/20
+MSH3	chr5	80149981	A	G	1.0000	21	NP_002430.3:p.(Gln949Arg)	NM_002439.4:c.2846A>G	missense_variant	21/24
+APC	chr5	112176559	T	G	0.9706	34	NM_000038.5:c.5268T>G(p.(Ser1756=))	NM_000038.5:c.5268T>G	synonymous_variant	16/16
+APC	chr5	112176756	T	A	1.0000	16	NP_000029.2:p.(Val1822Asp)	NM_000038.5:c.5465T>A	missense_variant	16/16
+PDGFRB	chr5	149499672	T	C	0.5000	20	NM_002609.3:c.2601A>G(p.(Leu867=))	NM_002609.3:c.2601A>G	synonymous_variant	19/23
+GABRA6	chr5	161119071	G	T	1.0000	32	NM_000811.2:c.951G>T(p.(Ala317=))	NM_000811.2:c.951G>T	synonymous_variant	8/9
+FGFR4	chr5	176517461	T	G	1.0000	28	NM_002011.4:c.162T>G(p.(Arg54=))	NM_002011.4:c.162T>G	synonymous_variant	3/18
+FGFR4	chr5	176517797	C	T	1.0000	26	NP_002002.3:p.(Pro136Leu)	NM_002011.4:c.407C>T	missense_variant	4/18
+NSD1	chr5	176721198	T	C	1.0000	20	NM_022455.4:c.6829T>C(p.(Leu2277=))	NM_022455.4:c.6829T>C	synonymous_variant	23/23
+DDX41	chr5	176940384	G	A	0.6000	15	NM_016222.3:c.1200C>T(p.(Arg400=))	NM_016222.3:c.1200C>T	synonymous_variant	11/17
+FLT4	chr5	180046344	G	C	1.0000	27	NP_891555.2:p.(His890Gln)	NM_182925.4:c.2670C>G	missense_variant	19/30
+CCND3	chr6	41903782	A	C	0.4800	25	NP_001751.1:p.(Ser259Ala)	NM_001760.4:c.775T>G	missense_variant	5/5
+	chr6	41943080	T	C	1.0000	36				
+	chr6	42013049	T	C	1.0000	17				
+ROS1	chr6	117641474	G	A	0.5714	7		NM_002944.2:c.5778-281C>T	intron_variant	
+ROS1	chr6	117652187	T	C	0.5000	18		NM_002944.2:c.5249-1578A>G	intron_variant	
+ROS1	chr6	117659853	C	G	0.5000	18		NM_002944.2:c.5080-1350G>C	intron_variant	
+MYB	chr6	135534823	T	C	1.0000	22		NM_001130173.1:c.2170-4179T>C	intron_variant	
+MYB	chr6	135538639	A	G	1.0000	25		NM_001130173.1:c.2170-363A>G	intron_variant	
+ESR1	chr6	152125444	T	C	1.0000	24			upstream_gene_variant	
+ESR1	chr6	152129077	T	C	1.0000	32	NM_000125.3:c.30T>C(p.(Ser10=))	NM_000125.3:c.30T>C	synonymous_variant	1/8
+ESR1	chr6	152201875	T	C	0.9750	40	NM_000125.3:c.729=(p.(Arg243=))	NM_000125.3:c.729=	synonymous_variant	3/8
+ESR1	chr6	152287143	G	C	1.0000	27		NM_000125.3:c.1096+21500G>C	intron_variant	
+MAP3K4	chr6	161469774	G	A	1.0000	25	NM_005922.3:c.470=(p.(His157=))	NM_005922.3:c.470=	synonymous_variant	3/27
+PMS2	chr7	6036980	G	C	1.0000	22	NM_000535.6:c.780C>G(p.(Ser260=))	NM_000535.6:c.780C>G	synonymous_variant	7/15
+ETV1	chr7	13948179	G	A	1.0000	11		NM_004956.4:c.940+1078C>T	intron_variant	
+ETV1	chr7	13991828	T	G	0.5417	24		NM_004956.4:c.236-12957A>C	intron_variant	
+ETV1	chr7	13991853	C	G	0.5000	28		NM_004956.4:c.236-12982G>C	intron_variant	
+ETV1	chr7	13995524	A	T	0.6667	9		NM_004956.4:c.236-16653T>A	intron_variant	
+ETV1	chr7	14013219	A	G	0.5000	8		NM_004956.4:c.235+3833T>C	intron_variant	
+ETV1	chr7	14015259	A	G	0.4118	17		NM_004956.4:c.235+1793T>C	intron_variant	
+ETV1	chr7	14016664	A	G	0.7500	8		NM_004956.4:c.235+388T>C	intron_variant	
+ETV1	chr7	14024396	A	T	0.7500	4		NM_004956.4:c.181+1867T>A	intron_variant	
+ETV1	chr7	14025766	T	A	1.0000	9		NM_004956.4:c.181+497A>T	intron_variant	
+EGFR	chr7	55214348	C	T	1.0000	30	NM_005228.4:c.474C>T(p.(Asn158=))	NM_005228.4:c.474C>T	synonymous_variant	4/28
+EGFR	chr7	55221447	C	G	1.0000	6		NM_005228.4:c.748-257C>G	intron_variant	
+EGFR	chr7	55223790	T	C	1.0000	17		NM_005228.4:c.1006+151T>C	intron_variant	
+EGFR	chr7	55238874	T	A	0.4000	15	NM_005228.4:c.1887T>A(p.(Thr629=))	NM_005228.4:c.1887T>A	synonymous_variant	16/28
+EGFR	chr7	55245647	T	C	0.7143	21		NM_005228.4:c.2283+3134T>C	intron_variant	
+EGFR	chr7	55246220	G	A	0.6667	27		NM_005228.4:c.2284-2766G>A	intron_variant	
+EGFR	chr7	55248231	A	G	1.0000	26		NM_005228.4:c.2284-755A>G	intron_variant	
+EGFR	chr7	55248926	T	C	0.6316	19		NM_005228.4:c.2284-60T>C	intron_variant	
+EGFR	chr7	55266417	T	C	1.0000	26	NM_005228.4:c.2709T>C(p.(Thr903=))	NM_005228.4:c.2709T>C	synonymous_variant	23/28
+CUX1	chr7	101755060	A	G	0.6842	19		NM_181552.3:c.607+6A>G	splice_region_variant:intron_variant	
+CUX1	chr7	101837149	G	A	0.6087	23	NM_181552.3:c.1104G>A(p.(Pro368=))	NM_181552.3:c.1104G>A	synonymous_variant	13/24
+CUX1	chr7	101844851	A	G	0.4138	29	NM_181552.3:c.2274A>G(p.(Pro758=))	NM_181552.3:c.2274A>G	synonymous_variant	18/24
+PIK3CG	chr7	106508978	A	G	1.0000	40	NM_001282426.1:c.972A>G(p.(Pro324=))	NM_001282426.1:c.972A>G	synonymous_variant	2/11
+	chr7	155990813	T	C	0.5714	21				
+	chr8	28411072	T	C	1.0000	16				
+MYC	chr8	128757577	T	A	1.0000	20			downstream_gene_variant	
+RECQL4	chr8	145737636	A	G	1.0000	32	NM_004260.3:c.3127=(p.(Leu1043=))	NM_004260.3:c.3127=	synonymous_variant	18/21
+CDKN2A	chr9	21975017	C	T	1.0000	29		NM_000077.4:c.-191G>A	5_prime_UTR_variant	1/3
+NTRK2	chr9	87480759	C	G	0.5909	22		NM_006180.4:c.1445-1399C>G	intron_variant	
+NTRK2	chr9	87480828	T	C	0.5200	25		NM_006180.4:c.1445-1330T>C	intron_variant	
+NTRK2	chr9	87489785	G	C	0.5714	21		NM_006180.4:c.1633+7439G>C	intron_variant	
+NTRK2	chr9	87491480	A	C	0.6111	18		NM_006180.4:c.1633+9134A>C	intron_variant	
+	chr9	128968063	C	T	0.2759	29				
+TSC1	chr9	135772717	G	A	0.6471	17	NM_000368.4:c.2829C>T(p.(Ala943=))	NM_000368.4:c.2829C>T	synonymous_variant	22/23
+	chr9	137417305	A	G	1.0000	36				
+	chr10	17193346	A	G	1.0000	25				
+ANKRD26	chr10	27303605	A	T	0.8333	12	NP_055730.2:p.(Phe1514Leu)	NM_014915.2:c.4542T>A	missense_variant	31/34
+RET	chr10	43577026	G	C	1.0000	31		NM_020975.4:c.73+4247G>C	intron_variant	
+RET	chr10	43606687	A	G	1.0000	35	NM_020975.4:c.1296A>G(p.(Ala432=))	NM_020975.4:c.1296A>G	synonymous_variant	7/20
+RET	chr10	43610119	G	A	0.5652	23	NP_066124.1:p.(Gly691Ser)	NM_020975.4:c.2071G>A	missense_variant	11/20
+RET	chr10	43610558	C	T	1.0000	26		NM_020975.4:c.2136+374C>T	intron_variant	
+RET	chr10	43615633	C	G	0.6500	20	NM_020975.4:c.2712C>G(p.(Ser904=))	NM_020975.4:c.2712C>G	synonymous_variant	15/20
+RET	chr10	43622217	T	C	1.0000	28		NM_020975.4:c.3187+47T>C	intron_variant	
+FAS	chr10	90771829	T	C	1.0000	14	NM_000043.5:c.642T>C(p.(Thr214=))	NM_000043.5:c.642T>C	synonymous_variant	7/9
+SMC3	chr10	112361870	A	G	1.0000	19	NM_005445.3:c.3039A>G(p.(Ser1013=))	NM_005445.3:c.3039A>G	synonymous_variant	25/29
+FGFR2	chr10	123240287	T	C	1.0000	31		NM_022970.3:c.2305-752A>G	intron_variant	
+FGFR2	chr10	123240625	A	G	1.0000	30		NM_022970.3:c.2305-1090T>C	intron_variant	
+FGFR2	chr10	123298158	T	C	1.0000	24	NM_022970.3:c.696A>G(p.(Val232=))	NM_022970.3:c.696A>G	synonymous_variant	6/18
+LMO1	chr11	8251921	G	C	1.0000	23	NM_002315.2:c.156C>G(p.(Ala52=))	NM_002315.2:c.156C>G	synonymous_variant	2/4
+RPS6KA4	chr11	64127744	A	G	1.0000	19	NM_003942.2:c.237A>G(p.(Gln79=))	NM_003942.2:c.237A>G	synonymous_variant	3/17
+RPS6KA4	chr11	64138805	T	C	1.0000	18	NM_003942.2:c.2172T>C(p.(Asn724=))	NM_003942.2:c.2172T>C	synonymous_variant	17/17
+MEN1	chr11	64572018	T	C	1.0000	25	NM_000244.3:c.1636=(p.(Ala546=))	NM_000244.3:c.1636=	synonymous_variant	10/10
+MEN1	chr11	64572557	A	G	1.0000	27	NM_000244.3:c.1314=(p.(His438=))	NM_000244.3:c.1314=	synonymous_variant	9/10
+CCND1	chr11	69462910	G	A	1.0000	25	NM_053056.2:c.723G>A(p.(Pro241=))	NM_053056.2:c.723G>A	splice_region_variant:synonymous_variant	4/5
+CCND1	chr11	69466737	C	G	1.0000	25		NM_053056.2:c.*687C>G	3_prime_UTR_variant	5/5
+FGF19	chr11	69523592	A	G	1.0000	31			upstream_gene_variant	
+FGF4	chr11	69583722	A	G	0.6111	18			downstream_gene_variant	
+FGF4	chr11	69584435	C	T	1.0000	21			downstream_gene_variant	
+FGF4	chr11	69591809	C	T	0.3478	23			upstream_gene_variant	
+FGF4	chr11	69592140	A	T	1.0000	24			upstream_gene_variant	
+FGF3	chr11	69632249	T	A	1.0000	23		NM_005247.2:c.221-1058A>T	intron_variant	
+FGF3	chr11	69633037	G	A	0.4706	17		NM_005247.2:c.220+445C>T	intron_variant	
+PAK1	chr11	77072290	A	G	1.0000	20		NM_001128620.1:c.478-2228T>C	intron_variant	
+PGR	chr11	100909991	T	C	0.7000	10	NM_000926.4:c.2658A>G(p.(Gln886=))	NM_000926.4:c.2658A>G	synonymous_variant	8/8
+	chr11	115207176	C	G	1.0000	12				
+CHEK1	chr11	125525195	A	G	1.0000	30	NP_001317356.1:p.(Ile487Val)	NM_001330427.1:c.1459A>G	missense_variant	12/13
+ETS1	chr11	128333503	T	C	0.5790	19	NM_001143820.1:c.1143A>G(p.(Leu381=))	NM_001143820.1:c.1143A>G	synonymous_variant	9/10
+	chr12	888320	G	A	1.0000	10				
+FGF23	chr12	4482973	T	C	1.0000	20		NM_020638.2:c.212-1110A>G	intron_variant	
+FGF23	chr12	4484459	C	T	0.5333	30		NM_020638.2:c.212-2596G>A	intron_variant	
+FGF6	chr12	4539870	G	A	0.5714	14			downstream_gene_variant	
+FGF6	chr12	4553332	A	G	0.4348	23	NM_020996.2:c.417T>C(p.(Val139=))	NM_020996.2:c.417T>C	synonymous_variant	2/3
+FGF6	chr12	4553383	A	G	0.5185	27	NM_020996.2:c.366T>C(p.(Thr122=))	NM_020996.2:c.366T>C	synonymous_variant	2/3
+	chr12	6945914	C	G	0.4000	15				
+ETV6	chr12	12010736	C	T	0.6000	20		NM_001987.4:c.463+4241C>T	intron_variant	
+ETV6	chr12	12011772	A	G	1.0000	21		NM_001987.4:c.463+5277A>G	intron_variant	
+ETV6	chr12	12012801	A	G	1.0000	26		NM_001987.4:c.463+6306A>G	intron_variant	
+ETV6	chr12	12013189	A	G	0.5333	15		NM_001987.4:c.463+6694A>G	intron_variant	
+ETV6	chr12	12013612	G	A	0.8000	10		NM_001987.4:c.463+7117G>A	intron_variant	
+CDKN1B	chr12	12871099	T	G	0.5556	27	NP_004055.1:p.(Val109Gly)	NM_004064.4:c.326T>G	missense_variant	1/3
+KRAS	chr12	25368462	C	T	1.0000	18	NM_033360.3:c.483G>A(p.(Arg161=))	NM_033360.3:c.483G>A	synonymous_variant	5/6
+KRAS	chr12	25389507	A	G	1.0000	15		NM_033360.3:c.111+8701T>C	intron_variant	
+KRAS	chr12	25400962	G	C	0.8182	11		NM_033360.3:c.-11-2633C>G	intron_variant	
+	chr12	31957306	A	G	1.0000	14				
+FRS2	chr12	69967862	G	A	1.0000	25	NM_006654.4:c.654G>A(p.(Ala218=))	NM_006654.4:c.654G>A	synonymous_variant	10/10
+	chr12	106328254	T	C	0.4375	16				
+HNF1A	chr12	121437382	A	G	0.9697	33	NM_000545.6:c.1720=(p.(Gly574=))	NM_000545.6:c.1720=	synonymous_variant	9/10
+LATS2	chr13	21620085	T	C	1.0000	30	NM_014572.2:c.81A>G(p.(Lys27=))	NM_014572.2:c.81A>G	synonymous_variant	2/8
+FGF9	chr13	22274316	G	C	1.0000	27		NM_002010.2:c.382-1013G>C	intron_variant	
+FGF9	chr13	22275394	A	G	1.0000	25	NM_002010.2:c.447A>G(p.(Ser149=))	NM_002010.2:c.447A>G	synonymous_variant	3/3
+FLT1	chr13	28893642	A	G	1.0000	40	NM_002019.4:c.3204T>C(p.(Pro1068=))	NM_002019.4:c.3204T>C	synonymous_variant	24/30
+FLT1	chr13	28961839	C	T	0.9474	19		NM_002019.4:c.1969+2094G>A	intron_variant	
+FLT1	chr13	28963702	G	A	0.6957	23		NM_002019.4:c.1969+231C>T	intron_variant	
+BRCA2	chr13	32906480	A	C	0.7778	9	NP_000050.2:p.(Asn289His)	NM_000059.3:c.865A>C	missense_variant	10/27
+BRCA2	chr13	32906980	A	G	0.6154	13	NM_000059.3:c.1365A>G(p.(Ser455=))	NM_000059.3:c.1365A>G	synonymous_variant	10/27
+BRCA2	chr13	32910721	T	C	0.5000	14	NM_000059.3:c.2229T>C(p.(His743=))	NM_000059.3:c.2229T>C	synonymous_variant	11/27
+BRCA2	chr13	32929387	T	C	1.0000	19	NM_000059.3:c.7397=(p.(Ala2466=))	NM_000059.3:c.7397=	synonymous_variant	14/27
+FGF14	chr13	102589909	C	T	0.4074	27		NM_175929.2:c.209-62263G>A	intron_variant	
+ERCC5	chr13	103527930	G	C	1.0000	24	NM_000123.3:c.3238=(p.(Arg1080=))	NM_000123.3:c.3238=	synonymous_variant	15/15
+IRS2	chr13	110435231	C	T	0.9565	23	NP_003740.2:p.(Gly1057Asp)	NM_003749.2:c.3170G>A	missense_variant	1/2
+	chr14	29036737	T	C	1.0000	23				
+DNMT1	chr19	10267077	T	C	0.4167	12	NM_001130823.2:c.1389A>G(p.(Pro463=))	NM_001130823.2:c.1389A>G	synonymous_variant	18/41
+	chr20	15124893	T	C	1.0000	18				
+TMPRSS2	chr21	42864166	A	C	0.4815	27		NM_001135099.1:c.349+2117T>G	intron_variant	
+BCR	chr22	23631801	T	C	0.3500	20	NM_004327.3:c.2700T>C(p.(Asn900=))	NM_004327.3:c.2700T>C	synonymous_variant	13/23
+	chr22	26790885	G	C	1.0000	17				
+EP300	chr22	41551039	T	A	1.0000	21	NM_001429.3:c.3183T>A(p.(Thr1061=))	NM_001429.3:c.3183T>A	synonymous_variant	17/31
+		

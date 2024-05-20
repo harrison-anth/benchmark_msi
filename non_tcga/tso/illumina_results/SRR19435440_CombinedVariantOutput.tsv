@@ -1,0 +1,52 @@
+TruSight Oncology 500 - Combined Variant Output		
+For Research Use Only. Not for use in diagnostic procedures.		
+		
+[Analysis Details]		
+Pair ID	SRR19435440	
+DNA Sample ID	SRR19435440	
+RNA Sample ID	NA	
+Output Date	2023-08-15	
+Output Time	14:00:55	
+Module Version	NA	
+Pipeline Version	ruo-2.2.0.12	
+		
+[Sequencing Run Details]		
+NA		
+		
+[TMB]		
+Total TMB	0.0	
+Coding Region Size in Megabases	0.07	
+Number of Passing Eligible Variants	0	
+		
+[MSI]		
+Usable MSI Sites	0	
+Total MSI Sites Unstable	NA	
+Percent Unstable MSI Sites	NA	
+		
+[Gene Amplifications]		
+Gene	Fold Change	
+NA		
+		
+[Splice Variants]		
+Gene	Affected Exon	Breakpoint 1	Breakpoint 2	Splice Supporting Reads	Reference Reads Transcript
+NA		
+		
+[Fusions]		
+Gene Pair	Breakpoint 1	Breakpoint 2	Fusion Supporting Reads	Gene 1 Reference Reads	Gene 2 Reference Reads
+NA		
+		
+[Small Variants]		
+Gene	Chromosome	Genomic Position	Reference Call	Alternative Call	Allele Frequency	Depth	P-Dot Notation	C-Dot Notation	Consequence(s)	Affected Exon(s)
+MST1	chr3	49725302	T	C	0.1177	51	NM_020998.3:c.123A>G(p.(Gln41=))	NM_020998.3:c.123A>G	synonymous_variant	2/18
+MYB	chr6	135524516	A	G	0.3636	33		NM_001130173.1:c.2169+54A>G	intron_variant	
+EGFR	chr7	55236774	A	G	1.0000	26		NM_005228.4:c.1881-2094A>G	intron_variant	
+	chr11	134667546	A	T	0.5484	31				
+ETV6	chr12	12013572	G	A	0.6000	20		NM_001987.4:c.463+7077G>A	intron_variant	
+ETV6	chr12	12013612	G	A	1.0000	21		NM_001987.4:c.463+7117G>A	intron_variant	
+PIK3C2G	chr12	18435452	C	T	0.4211	19	NP_001275701.1:p.(Pro146Leu)	NM_001288772.1:c.437C>T	missense_variant	2/33
+DIS3	chr13	73349359	G	C	0.2353	17	NP_055768.3:p.(Thr326Arg)	NM_014953.3:c.977C>G	missense_variant	6/21
+AKT2	chr19	40776316	AG	TT	0.3954	43		NM_001626.5:c.-84-5059_-84-5058delinsAA	intron_variant	
+POLD1	chr19	50902188	A	T	0.4231	26	NP_001295561.1:p.(Asp27Val)	NM_001308632.1:c.80A>T	missense_variant	1/26
+ERG	chr21	39752673	C	T	0.3333	30		NM_001136154.1:c.*2652G>A	3_prime_UTR_variant	12/12
+BCR	chr22	23631801	T	C	0.3333	48	NM_004327.3:c.2700T>C(p.(Asn900=))	NM_004327.3:c.2700T>C	synonymous_variant	13/23
+		

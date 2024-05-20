@@ -1,0 +1,52 @@
+TruSight Oncology 500 - Combined Variant Output		
+For Research Use Only. Not for use in diagnostic procedures.		
+		
+[Analysis Details]		
+Pair ID	SRR19435453	
+DNA Sample ID	SRR19435453	
+RNA Sample ID	NA	
+Output Date	2023-08-15	
+Output Time	14:00:55	
+Module Version	NA	
+Pipeline Version	ruo-2.2.0.12	
+		
+[Sequencing Run Details]		
+NA		
+		
+[TMB]		
+Total TMB	0.0	
+Coding Region Size in Megabases	0.00	
+Number of Passing Eligible Variants	0	
+		
+[MSI]		
+Usable MSI Sites	0	
+Total MSI Sites Unstable	NA	
+Percent Unstable MSI Sites	NA	
+		
+[Gene Amplifications]		
+Gene	Fold Change	
+MYC	1.505	
+		
+[Splice Variants]		
+Gene	Affected Exon	Breakpoint 1	Breakpoint 2	Splice Supporting Reads	Reference Reads Transcript
+NA		
+		
+[Fusions]		
+Gene Pair	Breakpoint 1	Breakpoint 2	Fusion Supporting Reads	Gene 1 Reference Reads	Gene 2 Reference Reads
+NA		
+		
+[Small Variants]		
+Gene	Chromosome	Genomic Position	Reference Call	Alternative Call	Allele Frequency	Depth	P-Dot Notation	C-Dot Notation	Consequence(s)	Affected Exon(s)
+ALK	chr2	29416481	T	C	0.5200	25	NP_004295.2:p.(Lys1491Arg)	NM_004304.4:c.4472A>G	missense_variant	29/29
+PAX8	chr2	113993344	A	C	1.0000	32		NM_003466.3:c.899-185T>G	intron_variant	
+RAF1	chr3	12666367	A	G	1.0000	10		NM_002880.3:c.-26-6121T>C	intron_variant	
+RAF1	chr3	12695252	C	G	1.0000	10		NM_002880.3:c.-27+10060G>C	intron_variant	
+MSH3	chr5	79950781	A	G	0.3333	15	NP_002430.3:p.(Ile79Val)	NM_002439.4:c.235A>G	missense_variant:splice_region_variant	1/24
+MYB	chr6	135524516	A	G	0.4118	17		NM_001130173.1:c.2169+54A>G	intron_variant	
+MYC	chr8	128757577	T	A	0.8333	24			downstream_gene_variant	
+TET1	chr10	70405855	A	G	1.0000	19	NP_085128.2:p.(Ile1123Met)	NM_030625.2:c.3369A>G	missense_variant	4/12
+	chr11	134667546	A	T	0.4583	24				
+	chr14	29036737	T	C	0.4375	16				
+NOTCH3	chr19	15302844	T	C	1.0000	27	NM_000435.2:c.606A>G(p.(Ala202=))	NM_000435.2:c.606A>G	synonymous_variant	4/33
+EP300	chr22	41551039	T	A	1.0000	20	NM_001429.3:c.3183T>A(p.(Thr1061=))	NM_001429.3:c.3183T>A	synonymous_variant	17/31
+		
