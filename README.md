@@ -72,9 +72,9 @@ All non-TCGA datasets have their own pipelines loosley based on the code used to
 an alignment script used to align the fastq files to a reference genome, and that the MSI tools run files might have been concatenated into one script
 (typically titled dataset_msi.sh)
 
-# Graphs and results
+### Graphs and results
 
-## All the code necessary to generate the graphs used in the paper are stored in two Rmarkdown file titled final_pub_fig_file3.rmd and cpu_time.rmd).
+#### All the code necessary to generate the graphs used in the paper are stored in two Rmarkdown file titled final_pub_fig_file3.rmd and cpu_time.rmd).
 
 All the results for this study have been reduced down to their smallest necessary files and are stored in the appropriate subdirectory for each dataset
 (for example pn_wxs/sensor2_results will have the results for MSIsensor2 on the additional paired-normal WXS dataset used in the study). 
