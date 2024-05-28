@@ -70,19 +70,27 @@ rna_normals.sh - Alternate version of the master script to randomly sample the p
 
 All non-TCGA datasets have their own pipelines loosley based on the code used to generate the TCGA results. The only difference being that there is
 an alignment script used to align the fastq files to a reference genome, and that the MSI tools run files might have been concatenated into one script
-(typically titled dataset_msi.sh)
+(typically titled dataset_msi.sh).
 
 ### Graphs and results
 
 #### All the code necessary to generate the graphs used in the paper are stored in two Rmarkdown file titled final_pub_fig_file3.rmd and cpu_time.rmd).
 
-All the results for this study have been reduced down to their smallest necessary files and are stored in the appropriate subdirectory for each dataset
-(for example pn_wxs/sensor2_results will have the results for MSIsensor2 on the additional paired-normal WXS dataset used in the study). 
+The results for this study have been reduced down to their smallest necessary files and are stored in the appropriate
+subdirectory for each dataset
+(for example pn_wxs/sensor2_results will have the results for MSIsensor2 on the additional paired-normal WXS dataset
+used in the study).
+
+The gene count matrix for PreMSIm and MSIsensor-RNA were not uploaded due to their size being > 100MB when compressed.
+However, these gene count matrices can be recreated with the RNA scripts detailed above. 
+
+### Baselines and reference files
+
+The reference files are available from the GDC (https://gdc.cancer.gov/about-data/gdc-data-processing/gdc-reference-files)
+
+The baselines created for each tool and used in this study are included in the baselines directory. 
+
+
 
 Please feel free to reach out with any questions if this README has not answered your questions. 
-
-
-and another that converts the pipeline for use with non-TCGA data (non_tcga directory).
-Each subdirectory contains all code and results for that particular dataset.
-All directories fall the same naming scheme for datasets that were used in our manuscript.
 
