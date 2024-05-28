@@ -17,6 +17,9 @@ then
 
 python /home/hanthony/bin/programs/MSINGB/codes/msingb.py --maf ../maf/$tum_id.maf --outdir ../msingb_results/$seq/$tum_id/
 
+
+#optional cleanup 
+
 rm ../msingb_results/$tum_id/feature.csv
 rm ../msingb_results/$tum_id/tagged.csv
 
