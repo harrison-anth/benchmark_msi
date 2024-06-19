@@ -16,7 +16,7 @@ sensor=N
 sensor2=N
 
 #MSIsensor-pro
-pro=Y
+pro=N
 
 #MANTIS
 mantis=Y
