@@ -8,7 +8,7 @@ tumor=$1
 
 BEDFILE=../bed_files/ms_sites_premium+.bed
 REF_GENOME=../reference_files/hg38_chr7.fa
-msings=/home/hanthony/bin/programs/msings/msi
+msings=../reference_files/msings/msi
 
 #"multiplier" is the number of standard deviations from the baseline that is required to call instability
 multiplier=2.0
