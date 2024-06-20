@@ -1,5 +1,7 @@
 #!/bin/bash
 
+eval "$(conda shell.bash hook)"
+
 
 #bam file paths and naames
 
@@ -11,26 +13,18 @@ rna=bam/rna.bam
 
 #MSIsensor
 sensor=N
-
 #MSIsensor2
 sensor2=N
-
 #MSIsensor-pro
 pro=N
-
 #MANTIS
 mantis=Y
-
 #MSIngs
 msings=Y
-
 #MSIsensor-RNA
 sensor_rna=Y
-
 #preMSIm
 premsim=Y
-
-#run MSIsensor
 
 if [[ $sensor == "Y" ]]
 then
@@ -50,6 +44,16 @@ fi
 if [[ $msings == "Y" ]]
 then
 bash scripts/msings.sh $tumor
+fi
+
+if [[ $mantis == "Y" ]]
+then
+bash scripts/mantis.sh $tumor $normal
+fi
+
+if [[ $sensor_rna == "Y" ]]
+then
+bash scripts/sensor_rna.sh $tumor
 fi
 
 
