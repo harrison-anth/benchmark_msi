@@ -7,7 +7,7 @@
 #SBATCH --nice=1000
 
 
-dir=/data3/hanthony/genekor
+dir=/data3/hanthony/161_marker/
 ref=/data3/hanthony/reference_files/GRCh38.d1.vd1.fa
 gnorts=$(sed "${SLURM_ARRAY_TASK_ID}q;d" access_list.txt)
 one=fastq/"$gnorts".fastq.gz
@@ -31,5 +31,6 @@ rm bam/$gnorts.bam
 
 fi
 
+# Pass BAM files to MSI tools
 
 sbatch msi_161_marker.sh $gnorts
