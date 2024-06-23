@@ -29,4 +29,4 @@ rm bam/$gnorts.bam
 fi
 
 
-#sbatch msi_end_seq.sh $gnorts
+sbatch msi_end_seq.sh $gnorts
