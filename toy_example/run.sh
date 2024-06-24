@@ -41,7 +41,7 @@ msingb=Y
 sensor_rna=N
 
 #preMSIm
-premsim=Y
+premsim=N
 
 
 
