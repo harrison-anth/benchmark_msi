@@ -4,26 +4,32 @@ tumor=$1
 
 #initialize conda shell
 eval "$(conda shell.bash hook)"
-conda activate sc_msi
 
-featureCounts \
--t exon \
--p --countReadPairs \
--g gene_name -a ../reference_files/gencode_v36_GDC.h38_chr7.gtf \
--o temp/temp.counts \
-$tumor
+echo "Reformatting count matrix"
 
 #shape gene count matrix for use with MSIsensor-RNA and preMSIm
 conda activate premsim
 
 Rscript scripts/sensor_rna_shaper.R
 
-
-if [[ ! -f ../sensor_rna_results/all_samples.txt ]]
-then
-
 conda deactivate
 
-msisensor-rna detection -i ../sensor_rna_results/all_samples.csv -o ../sensor_rna_results/all_samples.txt -m ../baselines/sensor_rna.model -d True
+echo "Running MSIsensor-RNA"
+
+
+msisensor-rna detection -i temp/all_samples.csv -o output/sensor_rna_test.txt -m ../baselines/sensor_rna.model -d True
+
+if [[ -f output/sensor_rna_test.txt ]]
+then
+echo "MSIsensor-RNA ran successfully"
+echo "See output/sensor_rna_test.txt for details."
 
 fi
+
+if [[ ! -f output/sensor_rna_test.txt ]]
+then
+echo "MSIsensor-RNA failed. Check program output for error messages."
+fi
+
+# wait 4 seconds for user to see success/fail status
+sleep 4

@@ -7,24 +7,43 @@ eval "$(conda shell.bash hook)"
 
 tumor=bam/wxs_tumor.bam
 normal=bam/wxs_normal.bam
-rna=bam/rna.bam
+rna=temp/SRR15197363.counts
+maf=temp/SRR14555852.maf
 
-#Designate which tools to run. Set Y to run. 
+#Designate which tools to run. Set Y to run. The relevant conda
+#environments must be installed.
 
 #MSIsensor
 sensor=N
+
 #MSIsensor2
 sensor2=N
+
 #MSIsensor-pro
 pro=N
+
 #MANTIS
-mantis=Y
+mantis=N
+
 #MSIngs
-msings=Y
+msings=N
+
+#MSINGB
+#NB: As there is no conda package for MSINGB, we have included a tarball that needs to be unpacked in the ../reference_files/ directory. 
+#Even though this toy example uses a maf file as an example, there are examples of taking files from vcf to MSINGB results in the tcga and non_tcga
+#results directories. 
+
+msingb=Y
+
 #MSIsensor-RNA
-sensor_rna=Y
+#NB: A local installation of MSIsensor-RNA is required as there is no conda package for it.
+
+sensor_rna=N
+
 #preMSIm
 premsim=Y
+
+
 
 if [[ $sensor == "Y" ]]
 then
@@ -51,9 +70,19 @@ then
 bash scripts/mantis.sh $tumor $normal
 fi
 
+if [[ $msingb == "Y" ]]
+then
+bash scripts/msingb.sh $maf
+fi
+
 if [[ $sensor_rna == "Y" ]]
 then
-bash scripts/sensor_rna.sh $tumor
+bash scripts/sensor_rna.sh $rna
+fi
+
+if [[ $premsim == "Y" ]]
+then
+bash scripts/premsim.sh $rna
 fi
 
 
