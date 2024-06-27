@@ -1,4 +1,4 @@
-# MSI tools script examples
+# Script examples for each MSI tool
 This directory contains examples of the scripts used to generate the results in this study. 
 The run.sh script has been preset to run MSI NGS tools on small subsetted bam files.
 
