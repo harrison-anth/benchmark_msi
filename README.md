@@ -20,7 +20,8 @@ vcf2maf.yml was used to convert from vcf file format to maf file format (note ev
 a working local installation of VEP)
 
 ### Publication results
-The TCGA results and scripts required to generate them are included in the tcga/ folder alongside a separate README.md detailing the pipeline. 
+The TCGA results and scripts required to generate them are included in the tcga/ folder alongside a separate README.md
+ detailing the pipeline. 
 
 The results of all non-TCGA datasets are in the non_tcga/ folder. Each separate dataset has its own subfolder and README.md. 
 
