@@ -34,13 +34,13 @@ in two Rmarkdown file titled final_pub_fig_file3.rmd and cpu_time.rmd).
 
 The reference files are available from the GDC (https://gdc.cancer.gov/about-data/gdc-data-processing/gdc-reference-files)
 
-The baselines created for each tool and used in this study are included in the baselines directory. 
+The baselines created for each tool and used in this study are included in the baselines/ directory. 
 
-### Toy example
+### Test example
 
 To ensure reproducibility of the results and quick implementation of our pipelines for other researchers who want to use these tools, we have included
-a toy example that allows for the user to quickly use each MSI tool on small BAM files which have been subset down to only the microsatellites found on 
-chromosome 7. 
+a test example that allows for the user to quickly use each MSI tool on small BAM and gene count matrices that have been subset down to only the microsatellites found on 
+chromosome 7. See the test/ directory for a separate README.md related to their use. 
 
 
 
