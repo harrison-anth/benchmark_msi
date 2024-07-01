@@ -13,4 +13,6 @@ BAM to a gene count matrix in the RNA and TCGA RNA result directories.
 Simply change the filenames/paths in the run.sh script to use your own bam files. While run.sh should work with local installations
 of each MSI tool, it is advisable to use the conda environments for each tool provided in this repository's envs/ directory. 
 
+NB: for MSINGB, MSINGS, and MANTIS to be run, their instances must be extracted from the .tar.gz files in the ../reference_files/ directory. This can be done
+by running tar -xvf
 
