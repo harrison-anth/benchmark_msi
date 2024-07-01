@@ -335,4 +335,3 @@ dependencies:
       - six==1.16.0
       - threadpoolctl==3.4.0
       - tzdata==2024.1
-prefix: /data3/hanthony/.conda_envs/premsim

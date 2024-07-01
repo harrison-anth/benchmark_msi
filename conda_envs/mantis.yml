@@ -52,4 +52,3 @@ dependencies:
   - wheel=0.40.0=pyhd8ed1ab_0
   - xz=5.2.6=h166bdaf_0
   - zlib=1.2.13=h166bdaf_4
-prefix: /data3/hanthony/.conda_envs/mantis
