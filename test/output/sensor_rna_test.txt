@@ -1,2 +1,0 @@
-sample_id,msi_status,probability_of_MSI-H
-temp/SRR15197363,MSS,0.0361
