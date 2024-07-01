@@ -23,9 +23,12 @@ sensor2=N
 pro=N
 
 #MANTIS
+#NB: There is a conda package for MANTIS, but we have found that building it from the binary source was more dependable. We have included a tarball installation that can be unpakced
+#in the ../reference_files/ directory
 mantis=N
 
 #MSIngs
+#NB: As there is no conda package for MSIngs, we have included a tarball that needs to be unpacked in the ../reference_files/ directory.
 msings=N
 
 #MSINGB

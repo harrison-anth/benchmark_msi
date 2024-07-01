@@ -19,8 +19,8 @@ dependencies:
   - bioconductor-biostrings=2.70.1=r43ha9d7317_1
   - bioconductor-data-packages=20231203=hdfd78af_0
   - bioconductor-delayedarray=0.28.0=r43ha9d7317_1
-  - bioconductor-deseq2=1.42.0=r43hf17093f_1
-  - bioconductor-edger=4.0.2=r43hf17093f_0
+  - bioconductor-deseq2=1.42.0=r43hf17093f_2
+  - bioconductor-edger=4.0.16=r43hf17093f_1
   - bioconductor-genomeinfodb=1.38.1=r43hdfd78af_1
   - bioconductor-genomeinfodbdata=1.2.11=r43hdfd78af_1
   - bioconductor-genomicranges=1.54.1=r43ha9d7317_1
@@ -28,7 +28,7 @@ dependencies:
   - bioconductor-keggrest=1.42.0=r43hdfd78af_0
   - bioconductor-limma=3.58.1=r43ha9d7317_0
   - bioconductor-matrixgenerics=1.14.0=r43hdfd78af_1
-  - bioconductor-rsubread=2.16.0=r43ha9d7317_0
+  - bioconductor-rsubread=2.16.1=r43ha9d7317_0
   - bioconductor-s4arrays=1.2.0=r43ha9d7317_1
   - bioconductor-s4vectors=0.40.2=r43ha9d7317_1
   - bioconductor-sparsearray=1.2.2=r43ha9d7317_1
@@ -38,7 +38,7 @@ dependencies:
   - bwidget=1.9.16=h9eba36c_0
   - bzip2=1.0.8=hd590300_5
   - c-ares=1.27.0=hd590300_0
-  - ca-certificates=2024.3.11=h06a4308_0
+  - ca-certificates=2024.6.2=hbcca054_0
   - cairo=1.18.0=h3faef2a_0
   - curl=8.6.0=hca28451_0
   - expat=2.6.2=h59595ed_0
@@ -100,10 +100,10 @@ dependencies:
   - make=4.3=hd18ef5c_1
   - ncurses=6.4.20240210=h59595ed_0
   - oniguruma=6.9.9=hd590300_0
-  - openssl=3.2.1=hd590300_1
+  - openssl=3.3.1=h4ab18f5_1
   - pandoc=3.1.12.3=ha770c72_0
   - pango=1.52.1=ha41ecd1_0
-  - parallel=20240322=ha770c72_0
+  - parallel=20240522=ha770c72_0
   - pcre2=10.42=hcad00b1_0
   - perl=5.34.0=h5eee18b_2
   - pip=24.0=pyhd8ed1ab_0
@@ -191,6 +191,7 @@ dependencies:
   - r-invgamma=1.1=r43hc72bb7e_3
   - r-irlba=2.3.5.1=r43h316c678_1
   - r-isoband=0.2.7=r43ha503ecb_2
+  - r-janitor=2.2.0=r43hc72bb7e_1
   - r-jquerylib=0.1.4=r43hc72bb7e_2
   - r-jsonlite=1.8.8=r43h57805ef_0
   - r-knitr=1.45=r43hc72bb7e_1
@@ -261,6 +262,7 @@ dependencies:
   - r-selectr=0.4_2=r43hc72bb7e_3
   - r-sessioninfo=1.2.2=r43hc72bb7e_2
   - r-shiny=1.8.0=r43h785f33e_0
+  - r-snakecase=0.11.1=r43hc72bb7e_0
   - r-snow=0.4_4=r43hc72bb7e_2
   - r-sourcetools=0.1.7_1=r43ha503ecb_1
   - r-squarem=2021.1=r43hc72bb7e_2
