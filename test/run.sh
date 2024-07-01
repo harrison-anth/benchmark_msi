@@ -43,7 +43,12 @@ msingb=Y
 
 sensor_rna=N
 
-#preMSIm
+#PreMSIm
+#NB The r-package for PreMSIm must be installed through github
+#this can be done with 
+#if (!requireNamespace("devtools", quietly = TRUE))
+#    install.packages("devtools")
+#devtools::install_github("WangX-Lab/PreMSIm")
 premsim=N
 
 
