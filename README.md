@@ -5,6 +5,11 @@ contact information: h dot anthony1 at universityofgalway dot ie
 
 ## Repository information
 
+This repository contains all the code needed to reproduce the benchmarking results of our recent manuscript.
+We compared the performance of several MSI tools on different next-generation sequencing datasets.
+Examples of how to run each MSI tool are provided in the test/ directory. The structure of the GitHub repository is described
+below.
+
 ### Conda environments
 The conda_envs folder contains all conda environments used for data handling and all MSI tools.
 
