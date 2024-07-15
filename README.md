@@ -15,7 +15,7 @@ The conda_envs folder contains all conda environments used for data handling and
 
 sensor.yml was used to run MSIsensor MSIsensor2 and MSIsensor-pro
 
-msings.yml was used to run msiNGS
+msings.yml was used to run mSINGS
 
 MSIR.yml was used to run R code
 
