@@ -30,10 +30,11 @@ The TCGA results and scripts required to generate them are included in the tcga/
 
 The results of all non-TCGA datasets are in the non_tcga/ folder. Each separate dataset has its own subfolder and README.md. 
 
-### Graphs and results
+### Graphs
 
-#### All the code necessary to generate the graphs used in the paper are stored 
-in two Rmarkdown file titled final_pub_fig_file3.rmd and cpu_time.rmd).
+#### All the code necessary to generate the graphs used in the paper are stored in the manuscript_graphs/ directory. The Rmarkdown files
+used are cater to my local paths and settings but can be adapated by any experienced R user. 
+All graphs were generated using R version 4.1.2
 
 ### Baselines and reference files
 
