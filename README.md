@@ -1,4 +1,6 @@
-# Evaluating the performance of several MSI tools on next-generation sequencing data. 
+# Performance assessment of computational tools to detect microsatellite instability
+## Article DOI: https://doi.org/10.1093/bib/bbae390
+
 ### Information about the author(s) of this code:
 Name(s): Harrison Anthony 
 contact information: h dot anthony1 at universityofgalway dot ie
