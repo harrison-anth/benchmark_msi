@@ -146,17 +146,19 @@ wgs_cpu_time=data.frame( 'MSIsensor' = round(mean(c(3835.61433836056,
   
 )
 temp <- rbind(wxs_cpu_time,wgs_cpu_time)
-temp %>% pivot_longer(cols = c(MSI.sensor,MSI.sensor.pro,MSI.sensor.2,mSINGS,MANTIS),names_to = 'Tool') %>% 
+colnames(temp) <- c("MSIsensor","MSIsensor-pro","MSIsensor2","mSINGS","MANTIS","Sequencing type")
+temp %>% pivot_longer(cols = c("MSIsensor","MSIsensor-pro","MSIsensor2","mSINGS","MANTIS"),names_to = 'Tool') %>% 
 arrange(Tool) -> temp2
 temp2$Tool <- gsub(temp2$Tool,pattern='\\.',replacement = ' ')
 
 
 
 
-    temp2 %>% ggplot(aes(x=reorder(Tool,value),y=value,fill=Sequencing.type))+
+    temp2 %>% ggplot(aes(x=reorder(Tool,value),y=value,fill=`Sequencing type`))+
   geom_bar(position = "dodge", stat = "identity")+
-  geom_text(aes(label = value), vjust = -0.2,position = position_dodge(.9))+ylab('Seconds')+xlab('Tool')
-
+  geom_text(aes(label = value), vjust = -0.2,position = position_dodge(.9))+ylab('Seconds')+xlab('Tool') ->sup_fig6
+    
+ggsave(filename = 'C:/Users/Harrison Anthony/Desktop/sup_fig6_hd.tiff',plot = sup_fig6,device = 'tiff',dpi = 300,units='px',height=2000,width=3000)
   
     
     
