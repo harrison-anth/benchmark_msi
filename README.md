@@ -34,7 +34,7 @@ The results of all non-TCGA datasets are in the non_tcga/ folder. Each separate 
 
 ### Graphs
 
-#### All the code necessary to generate the graphs used in the paper are stored in the manuscript_graphs/ directory. The Rmarkdown files
+All the code necessary to generate the graphs used in the paper are stored in the manuscript_graphs/ directory. The Rmarkdown files
 used are cater to my local paths and settings but can be adapated by any experienced R user. 
 All graphs were generated using R version 4.1.2
 
